@@ -1,1 +1,1 @@
-# pet-project
+# pet-project for cursova robota
